@@ -1,0 +1,24 @@
+header {
+    width: 310px;
+    height: 50px;
+    background: #1e114e;
+    border-radius: 10px;
+}
+nav {
+    width: 100px;
+    height: 200px;
+    background: #410606;
+    border-radius: 10px;
+}
+article {
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border-radius: 10px
+}
+footer {
+    width: 310px;
+    height: 50px;
+    background: aqua;
+    border-radius: 10px;
+}
