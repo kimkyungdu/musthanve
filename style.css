@@ -4,9 +4,6 @@ header {
     background: #1e114e;
     border-radius: 10px;
 }
-main {
-    display: flex;
-}
 nav {
     width: 100px;
     height: 200px;
